@@ -12,7 +12,7 @@
 
 - 🎓 **Computer Science Student** & Software Developer  
 - 💡 Passionate about algorithms, system design, and creative video storytelling  
-- 🏆 **JEE IIR:** 539 | ⭐️ **CEFR English:** B2  
+- 🏆 **JEE IIR:** 5057 | ⭐️ **CEFR English:** B2  
 - 📸 Photographer & video editor | 🧩 LeetCode problem-solver | 🎨 UI/logo design explorer
 
 ---
@@ -85,7 +85,7 @@
   <a href="https://www.linkedin.com/in/jdsb06"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0099FF?style=flat-square&logo=linkedin&logoColor=white"></a>
   <a href="https://twitter.com/jdsb_006"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-00FF99?style=flat-square&logo=twitter&logoColor=white"></a>
   <a href="https://dev.to/jashandeep"><img alt="Dev.to" src="https://img.shields.io/badge/Dev.to-0099FF?style=flat-square&logo=devdotto&logoColor=white"></a>
-  <a href="https://instagram.com/jdsb06"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-00FF99?style=flat-square&logo=instagram&logoColor=white"></a>
+  <a href="https://instagram.com/jdsb_06"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-00FF99?style=flat-square&logo=instagram&logoColor=white"></a>
   <a href="https://jdsb.tech"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-0099FF?style=flat-square&logo=vercel&logoColor=white"></a>
 </p>
 
