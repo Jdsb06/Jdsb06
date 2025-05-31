@@ -1,10 +1,5 @@
-<!-- Local Animated Banner -->
-<p align="center">
-  <img src="./loading satisfying GIF.gif" alt="Loading Animation" width="100%" style="border-radius: 8px;" />
-</p>
-
 <h1 align="center" style="color: #FFFFFF;">
-  Hi, I’m <span style="color: #8A2BE2;">Jashandeep Singh</span> (<code>Jdsb06</code>) 👋
+  Hi, I’m <span style="color: #8A2BE2;">Jashandeep Singh Bedi</span> (<code>Jdsb06</code>) 👋
 </h1>
 
 <p align="center">
@@ -22,10 +17,8 @@
 <p style="color: #DDDDDD;">
 - 🎓 <strong style="color: #8A2BE2;">Computer Science Student</strong> & Software Developer  
 - 💡 Driven by algorithms, scalable system design, and cinematic video editing  
-- 🏆 <strong style="color: #8A2BE2;">JEE IIR:</strong> 5057  |  ⭐️ <strong style="color: #8A2BE2;">CEFR English:</strong> B2  
 - 📸 Photographer & Video Editor  |  🧩 LeetCode Challenger  |  🎨 UI & Logo Design Enthusiast  
-- 🏫 Integrated M.Tech Student @ IIIT Bangalore (GPA: 3.26/4.00)  
-- 📚 Class 12 (92%) – Guru Nanak Public School; Class 10 (91.6%) – Ryan International School  
+- 🏫 Integrated M.Tech Student @ IIIT Bangalore 
 </p>
 
 ---
@@ -51,7 +44,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="30" alt="tailwindcss logo" />
+  <img src="https://tailwindcss.com/_next/static/media/tailwindcss-logotype.128b6ec1.svg" height="30" alt="tailwindcss logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" />
   <img width="12" />
