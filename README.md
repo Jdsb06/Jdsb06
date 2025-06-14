@@ -10,9 +10,10 @@
 
 ## 🚀 About Me
 
-- 🎓 **Computer Science Student** & Software Developer  
+- 🎓 **Computer Science Student** & Software Developer
+- 🎂 **Age:** 19  
 - 💡 Into algorithms, system design, and storytelling through video  
-- 🎥 Video editor & visual creator | 🧩 Codeforces enthusiast | 🎨 UI/logo design explorer
+- 🎥 Video editor & visual creator | 🧩 [Codeforces enthusiast](https://codeforces.com/profile/jdsb06) | 🎨 UI/logo design explorer
 
 ---
 
@@ -120,32 +121,40 @@
 ---
 ## 📬 Reach Me At
 
-<p align="center">
-  <a href="mailto:jdsb06@gmail.com" target="_blank" style="text-align:center; display:inline-block; margin: 0 30px;">
-    <img src="https://img.icons8.com/fluency/96/gmail-new.png" alt="Gmail" height="60"/>
-    <br>
-    <sub><strong>Gmail</strong></sub>
-  </a>
-
-  <a href="https://www.linkedin.com/in/jdsb06" target="_blank" style="text-align:center; display:inline-block; margin: 0 30px;">
-    <img src="https://img.icons8.com/fluency/96/linkedin.png" alt="LinkedIn" height="60"/>
-    <br>
-    <sub><strong>LinkedIn</strong></sub>
-  </a>
-
-  <a href="https://github.com/Jdsb06" target="_blank" style="text-align:center; display:inline-block; margin: 0 30px;">
-    <img src="https://img.icons8.com/fluency/96/github.png" alt="GitHub" height="60"/>
-    <br>
-    <sub><strong>GitHub</strong></sub>
-  </a>
-
-  <a href="https://twitter.com/Jdsb06" target="_blank" style="text-align:center; display:inline-block; margin: 0 30px;">
-    <img src="https://img.icons8.com/fluency/96/twitter.png" alt="Twitter" height="60"/>
-    <br>
-    <sub><strong>Twitter</strong></sub>
-  </a>
-</p>
-
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="mailto:jdsb06@gmail.com" target="_blank">
+        <img src="https://img.icons8.com/fluency/96/gmail-new.png" height="48" alt="Gmail"/><br/>
+        <sub><b>Gmail</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/jdsb06" target="_blank">
+        <img src="https://img.icons8.com/fluency/96/linkedin.png" height="48" alt="LinkedIn"/><br/>
+        <sub><b>LinkedIn</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Jdsb06" target="_blank">
+        <img src="https://img.icons8.com/fluency/96/github.png" height="48" alt="GitHub"/><br/>
+        <sub><b>GitHub</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://twitter.com/jdsb_06" target="_blank">
+        <img src="https://img.icons8.com/fluency/96/twitter.png" height="48" alt="Twitter"/><br/>
+        <sub><b>Twitter</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://jdsb.tech/" target="_blank">
+        <img src="https://github.com/Jdsb06/Jdsb06.github.io/blob/main/favicon.ico" height="48" alt="Website"/><br/>
+        <sub><b>Website</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
