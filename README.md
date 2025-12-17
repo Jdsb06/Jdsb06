@@ -1,124 +1,83 @@
 <!-- Profile README for Jdsb06 -->
 
-<h1 align="center">Hi, I’m Jashandeep Singh (Jdsb06) 👋</h1>
+<h1 align="center">Hi, I'm Jashandeep Singh (Jdsb06) 👋</h1>
 
 <p align="center">
-  <b style="color:#8A2BE2">Crafting elegant code</b> and <b style="color:#00CED1">immersive stories</b>—on screen or in the terminal.
+  <b>Crafting elegant code</b> and <b>immersive stories</b>—on screen or in the terminal.
 </p>
 
 ---
 
 ## 🚀 About Me
-
-- 🎓 **Computer Science Student** & Software Developer
 - 🎂 **Age:** 19  
-- 💡 Into algorithms, system design, and storytelling through video  
-- 🎥 Video editor & visual creator | 🧩 [Codeforces enthusiast](https://codeforces.com/profile/jdsb06) | 🎨 UI/logo design explorer
+- 📚 **Philosophy:** Learning before earning — building skills, solving problems, and growing every day
 
 ---
 
 ## 🛠 Tech Stack
 
-<table>
-  <tr>
-    <td><strong>💻 Languages</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>🌐 Web & Frameworks</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>⚙️ Tools & Platforms</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>💾 Databases</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-      <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>🧪 DevOps & Testing</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-      <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>🎨 Design & Media</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Adobe%20Premiere-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white" />
-      <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>🧠 AI / ML Libraries</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-      <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
-      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-      <img src="https://img.shields.io/badge/XGBoost-E53935?style=for-the-badge&logo=data&logoColor=white" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### ⚙️ Tools & Platforms
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+### 💾 Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### 🧠 AI / ML Libraries
+![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-E53935?style=for-the-badge&logoColor=white)
+
+</div>
 
 ---
 
 ## 📊 GitHub Stats & Activity
 
-<p align="center">
-  <!-- GitHub Overall Stats -->
-  <a href="https://github.com/Jdsb06" target="_blank" rel="noopener">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=Jdsb06&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&count_private=true&bg_color=000000,353841,272A36&title_color=00CED1&icon_color=8A2BE2"
-      alt="GitHub Stats"
-      height="150"
-      style="margin-right: 10px;"
-    />
-  </a>
-  <!-- Top Languages Card -->
-  <a href="https://github.com/Jdsb06" target="_blank" rel="noopener">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jdsb06&layout=compact&theme=dark&hide_border=true&langs_count=6"
-      alt="Top Languages"
-      height="150"
-      style="margin-right: 10px;"
-    />
-  </a>
-  <!-- GitHub Streak Stats -->
-  <a href="https://github.com/Jdsb06" target="_blank" rel="noopener">
-    <img
-      src="https://github-readme-streak-stats.herokuapp.com/?user=Jdsb06&theme=dark&hide_border=true&background=000000&stroke=8A2BE2&ring=00CED1"
-      alt="GitHub Streak"
-      height="150"
-    />
-  </a>
-</p>
+<div align="center">
+
+### 📈 Overview Statistics
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Jdsb06&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true&count_private=true&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" height="180" />
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com/?user=Jdsb06&theme=cobalt&hide_border=true&background=0d1117&ring=58a6ff&fire=79c0ff&currStreakLabel=58a6ff" alt="GitHub Streak" height="180" />
+    </td>
+  </tr>
+</table>
+
+### 🔥 Most Used Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jdsb06&layout=compact&theme=cobalt&hide_border=true&langs_count=8&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" height="180" />
+
+### 📉 Contribution Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jdsb06&custom_title=Contribution%20Graph&bg_color=0d1117&color=58a6ff&line=79c0ff&point=58a6ff&area_color=79c0ff&area=true&hide_border=true&title_color=58a6ff" alt="Contribution Graph" width="95%" />
+
+### 🏆 Achievements
+
+<img src="https://github-profile-trophy.vercel.app/?username=Jdsb06&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=10&margin-h=10&title=Stars,Commits,Repositories,PullRequest" alt="GitHub Trophies" />
+
+</div>
 
 ---
 
-## 🚧 Now Learning
-
-- Next.js  
-- Docker  
-
----
 ## 📬 Reach Me At
 
 <table align="center">
@@ -158,6 +117,6 @@
 
 ---
 
-<p align="center" style="color:#00CED1">
-  🚀 Thanks for stopping by. Let’s build something extraordinary. 🚀
+<p align="center">
+  🚀 Thanks for stopping by. Let's build something extraordinary. 🚀
 </p>
