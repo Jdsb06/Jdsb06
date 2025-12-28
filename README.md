@@ -9,8 +9,8 @@
 ---
 
 ## 🚀 About Me
-- 🎂 **Age:** 19  
-- 📚 **Philosophy:** Learning before earning — building skills, solving problems, and growing every day
+- 19
+-    __*Learning before earning*__ — building skills, solving problems, and growing every day
 
 ---
 
