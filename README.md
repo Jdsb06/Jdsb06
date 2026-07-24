@@ -73,14 +73,8 @@ fun: [print-debugging enthusiast, 2AM commit messages, tabs > spaces]
   <img alt="Snake animation" src="https://raw.githubusercontent.com/Jdsb06/Jdsb06/output/github-snake-dark.svg" width="100%" />
 </picture>
 
-<!-- ==================== CONNECT + FOOTER ==================== -->
+<!-- ==================== FOOTER ==================== -->
 
-<div align="center">
-
-<a href="mailto:jdsb06@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/></a>
-<a href="https://www.linkedin.com/in/jdsb06"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://twitter.com/jdsb_06"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X"/></a>
-<a href="https://jdsb.tech/"><img src="https://img.shields.io/badge/Portfolio-58a6ff?style=flat-square&logo=About.me&logoColor=white" alt="Website"/></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,20&height=100&section=footer&animation=twinkling" width="100%"/>
 
