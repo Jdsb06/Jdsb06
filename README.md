@@ -66,17 +66,7 @@ fun: [print-debugging enthusiast, 2AM commit messages, tabs > spaces]
 
 </div>
 
-<!-- Snake contribution animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jdsb06/Jdsb06/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jdsb06/Jdsb06/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/Jdsb06/Jdsb06/output/github-snake-dark.svg" width="100%" />
-</picture>
-
-<!-- ==================== FOOTER ==================== -->
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,20&height=100&section=footer&animation=twinkling" width="100%"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,20&height=100&section=footer&animation=twinkling" width="100%"/> -->
 
 </div>
 
