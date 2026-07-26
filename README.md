@@ -27,12 +27,10 @@
 ## About Me
 
 ```yaml
-name: Jashandeep Singh
+name: Jashan
 alias: Jdsb06
-age: 19
+age: 20
 motto: "Learning before earning"
-focus: [DSA, ML/AI, Backend]
-fun: [print-debugging enthusiast, 2AM commit messages, tabs > spaces]
 ```
 
 <!-- ==================== TECH STACK ==================== -->
@@ -85,35 +83,19 @@ fun: [print-debugging enthusiast, 2AM commit messages, tabs > spaces]
 </details>
 
 <details>
-<summary><b> College Projects(5)</b></summary>
-
+<summary><b> College Projects(6)</b></summary>
 
 - **[AIT-203-Optimization-Project](https://github.com/Jdsb06/AIT-203-Optimization-Project)** — Augmented Lagrangian optimization for risk-adjusted portfolio returns.
-
-- **[CuisineControl](https://github.com/Jdsb06/CuisineControl)** — Restaurant Management System.
+- **[SmartCampus](https://github.com/Jdsb06/SmartCampus)** — Full-stack campus management system built with Spring Boot, MySQL, Thymeleaf & REST APIs.
 - **[Viper64](https://github.com/Jdsb06/Viper64)** — RV64IM processor implementation with D-extension support.
 - **[Stack-Underflow](https://github.com/Jdsb06/Stack-Underflow)** — Warehouse Management System written in C.
-- **[SmartCampus](https://github.com/Jdsb06/SmartCampus)** — Full-stack campus management system built with Spring Boot, MySQL, Thymeleaf & REST APIs.
-
-</details>
-
-<details>
-<summary><b>💻 Systems, Computer Architecture & C (2)</b></summary>
-
-
-
-</details>
-
-<details>
-<summary><b>🐍 Python Projects (2)</b></summary>
-
-
+- **[CuisineControl](https://github.com/Jdsb06/CuisineControl)** — Restaurant Management System.
 - **[bookmyshow.py](https://github.com/Jdsb06/bookmyshow.py)** — CLI-based BookMyShow ticket booking application.
 
 </details>
 
 <details>
-<summary><b>🎨 Portfolio & Personal (1)</b></summary>
+<summary><b>Portfolio & Personal (2)</b></summary>
 
 - **[portfolio](https://github.com/Jdsb06/portfolio)** — Personal portfolio source code.
 - **[Jdsb06.github.io](https://github.com/Jdsb06/Jdsb06.github.io)** — Personal GitHub Pages website.
@@ -121,40 +103,10 @@ fun: [print-debugging enthusiast, 2AM commit messages, tabs > spaces]
 </details>
 
 <details>
-<summary><b>🌍 Open Source Contributions (1)</b></summary>
+<summary><b>Open Source Contributions (3)</b></summary>
 
 - **[shap](https://github.com/Jdsb06/shap)** *(Fork)* — Explainable AI library using SHAP values.
 - **[sktime](https://github.com/Jdsb06/sktime)** *(Fork)* — Machine learning framework for time-series analysis.
 - **[first-contributions](https://github.com/Jdsb06/first-contributions)** *(Fork)* — Beginner-friendly open source contribution repository.
 
 </details>
-<!-- ==================== SNAKE SETUP (for reference) ==================== -->
-<!--
-To enable the snake contribution animation:
-1. Create `.github/workflows/snake.yml` in your Jdsb06/Jdsb06 repo
-2. Paste the following workflow:
-
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: Jdsb06
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-3. Run the workflow manually once, then it auto-updates daily.
--->
