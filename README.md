@@ -71,7 +71,7 @@ motto: "Learning before earning"
 # 📂 Featured Repositories
 
 <details open>
-<summary><b> Hackathon(7)</b></summary>
+<summary><b> Hackathon(6)</b></summary>
 
 - **[MindShift](https://github.com/Jdsb06/MindShift)** — AI-powered habit tracker and productivity platform.
 - **[Lassi-Lovers](https://github.com/Jdsb06/Lassi-Lovers)** — Modern React/Tailwind frontend for an AI fact-checking platform.
@@ -95,9 +95,8 @@ motto: "Learning before earning"
 </details>
 
 <details>
-<summary><b>Portfolio & Personal (2)</b></summary>
+<summary><b>Personal (1)</b></summary>
 
-- **[portfolio](https://github.com/Jdsb06/portfolio)** — Personal portfolio source code.
 - **[Jdsb06.github.io](https://github.com/Jdsb06/Jdsb06.github.io)** — Personal GitHub Pages website.
 
 </details>
