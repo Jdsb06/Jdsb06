@@ -85,12 +85,12 @@ motto: "Learning before earning"
 <details>
 <summary><b> College Projects(6)</b></summary>
 
-- **[AIT-203-Optimization-Project](https://github.com/Jdsb06/AIT-203-Optimization-Project)** — Augmented Lagrangian optimization for risk-adjusted portfolio returns.
-- **[SmartCampus](https://github.com/Jdsb06/SmartCampus)** — Full-stack campus management system built with Spring Boot, MySQL, Thymeleaf & REST APIs.
-- **[Viper64](https://github.com/Jdsb06/Viper64)** — RV64IM processor implementation with D-extension support.
-- **[Stack-Underflow](https://github.com/Jdsb06/Stack-Underflow)** — Warehouse Management System written in C.
-- **[CuisineControl](https://github.com/Jdsb06/CuisineControl)** — Restaurant Management System.
-- **[bookmyshow.py](https://github.com/Jdsb06/bookmyshow.py)** — CLI-based BookMyShow ticket booking application.
+- **[AIT-203-Optimization-Project](https://github.com/Jdsb06/AIT-203-Optimization-Project)** — Augmented Lagrangian optimization for risk-adjusted portfolio returns.(optimization-S3)
+- **[SmartCampus](https://github.com/Jdsb06/SmartCampus)** — Full-stack campus management system built with Spring Boot, MySQL, Thymeleaf & REST APIs.(java-S3)
+- **[Viper64](https://github.com/Jdsb06/Viper64)** — RV64IM processor implementation with D-extension support.(computer architechure-S2)
+- **[Stack-Underflow](https://github.com/Jdsb06/Stack-Underflow)** — Warehouse Management System.(C-S1)
+- **[CuisineControl](https://github.com/Jdsb06/CuisineControl)** — Restaurant Management System.(python-S1)
+- **[bookmyshow.py](https://github.com/Jdsb06/bookmyshow.py)** — CLI-based BookMyShow ticket booking application.(Grade-XII)
 
 </details>
 
