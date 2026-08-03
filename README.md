@@ -104,7 +104,7 @@ motto: "Learning before earning"
 <details>
 <summary><b>Open Source Contributions (3)</b></summary>
 
-- **[shap](https://github.com/Jdsb06/shap)** *(Fork)* — Explainable AI library using SHAP values.
+- **[shap](https://github.com/Jdsb06/shap)** *(Fork)* — Explainable AI library using SHAP values
 - **[sktime](https://github.com/Jdsb06/sktime)** *(Fork)* — Machine learning framework for time-series analysis.
 - **[first-contributions](https://github.com/Jdsb06/first-contributions)** *(Fork)* — Beginner-friendly open source contribution repository.
 
